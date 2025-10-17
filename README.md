@@ -73,8 +73,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [MediaPipe](https://google.github.io/mediapipe/) by Google for the hand tracking solution
 - [OpenCV](https://opencv.org/) for computer vision functionality
 
-## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
 
 Project Link: https://github.com/Divyansh0980/HandTracking
