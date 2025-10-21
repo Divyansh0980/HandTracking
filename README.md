@@ -12,7 +12,7 @@ A Python-based hand tracking module using MediaPipe and OpenCV for real-time han
 - 📏 Distance calculation between fingers
 - 🎯 Hand landmark identification (21 points per hand)
 - 📦 Reusable `handDetector` class for easy integration
-- ⚡ High-performance tracking with customizable parameters
+- ⚡ High-performance tracking 
 
 ## Demo
 
