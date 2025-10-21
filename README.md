@@ -1,5 +1,6 @@
 # HandTracking
 Python hand tracking module with MediaPipe - Detect hands, track fingers, measure distances, and recognize gestures in real-time
+
 # Hand Tracking Module
 
 A Python-based hand tracking module using MediaPipe and OpenCV for real-time hand detection and gesture recognition.
